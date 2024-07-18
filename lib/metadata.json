@@ -1,0 +1,1972 @@
+{
+  "vaultName": "Obsidian",
+  "lastExport": 1721221003690,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon minimal-things-light minimal-things-dark minimal-readable colorful-frame colorful-active links-int-on links-ext-on full-width-media",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "播客/040｜我也曾以为我可以讨好所有人.md",
+    "播客/46.勇气杂谈：我们有，但不多.md",
+    "播客/99号跑道 - 转机票便宜？选机型选座位？关于飞机购票背后的故事.md",
+    "播客/414 - 谈钱伤感情？可不谈钱，它就是我心里的一根刺！.md",
+    "播客/开启自我改变的原动力，2月书影音合集.md",
+    "播客/人生开挂，需搞懂：一命二运三风水，四积阴德五读书，六名七相八敬神，九交贵人十养生.md",
+    "播客/无效沟通！垂死病中惊坐起，中文不是你母语？.md",
+    "播客/有些瞬间，我好像可以听到泡泡诞生的声音.md",
+    "播客/EP12：讨好型人格生存指南：关我P事和关你P事.md",
+    "播客/EP14说说年轻人听不到的健康劝告.md",
+    "播客/ep18. 工作10年总结，这6种职场能力者简直制霸打工界。.md",
+    "播客/MBTI守则：F人说好难过要碎了！T人说碎了不能解决问题.md",
+    "播客/MBTI守则：P人下次一定，J人全当放屁.md",
+    "播客/MBTI守则：S人说这是苹果，N人说这明明就是农民的劳动成果！.md",
+    "播客/Vol.051 示弱是个高情商，该“装”时候就得装｜刚如鲁迅也适时示弱.md",
+    "播客/VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日.md",
+    "播客/vol.150 六一特辑：小孩姐小孩哥，整顿大人没话说.md",
+    "财务/📒财务.md",
+    "财务/订阅.md",
+    "代码/化学镍水计算-Envdama-函数.md",
+    "代码/日记合并（废）.md",
+    "代码/日记合并（Diary Merger）.md",
+    "代码/照片生成标记点（高德地图）.md",
+    "代码/Assistants API交互.md",
+    "代码/Cal_packed_tower.md",
+    "代码/CalcCr6Process.md",
+    "工具/📁工具.md",
+    "工具/memos.md",
+    "工具/PicGo.md",
+    "工具/TranslucentTB.md",
+    "健康/🥬健康.md",
+    "居家/🛏️居家.md",
+    "旅行/2024-02-成都/2024年2月成都行游记.md",
+    "美食/🥟美食.md",
+    "美食/有家面（河东路店）.md",
+    "模板/报告.md",
+    "模板/播客.md",
+    "模板/代码.md",
+    "模板/美食.md",
+    "模板/模板.md",
+    "模板/年记.md",
+    "模板/人际.md",
+    "模板/日记.md",
+    "模板/软件.md",
+    "模板/书籍.md",
+    "模板/影视.md",
+    "模板/月记.md",
+    "模板/周记.md",
+    "模板/GPT.md",
+    "年记/2023.md",
+    "年记/2024.md",
+    "其他/┊┊.md",
+    "其他/4+1 system.md",
+    "其他/8+1 system.md",
+    "其他/埃森曼.md",
+    "其他/标准氢电极.md",
+    "其他/布孝有三.md",
+    "其他/财商.md",
+    "其他/测试.md",
+    "其他/除氰工艺实验汇总.md",
+    "其他/电极电势.md",
+    "其他/电极反应.md",
+    "其他/电解池.md",
+    "其他/电解质.md",
+    "其他/广播机制.md",
+    "其他/哈伯.md",
+    "其他/盒子.md",
+    "其他/亨利定律.md",
+    "其他/活度.md",
+    "其他/活度系数.md",
+    "其他/焦虑笔记.md",
+    "其他/焦虑盒子.md",
+    "其他/进化时滞.md",
+    "其他/看板测试.md",
+    "其他/可逆电池.md",
+    "其他/克莱默.md",
+    "其他/马斯洛需求理论.md",
+    "其他/能量转化可逆.md",
+    "其他/能斯特.md",
+    "其他/能斯特方程.md",
+    "其他/尼可里斯基.md",
+    "其他/氢电极.md",
+    "其他/氰化物污染及其治理技术——要点.md",
+    "其他/少量多次.md",
+    "其他/手把手教之Freefilesync.md",
+    "其他/四象限法.md",
+    "其他/索伦森.md",
+    "其他/问题清单.md",
+    "其他/物质可逆.md",
+    "其他/线性回归.md",
+    "其他/盐桥.md",
+    "其他/意群.md",
+    "其他/预期焦虑.md",
+    "其他/原电池.md",
+    "其他/阅读速度.md",
+    "其他/正态分布.md",
+    "其他/指示电极.md",
+    "其他/自发电池.md",
+    "人际/菠萝赛东°.md",
+    "人际/付仁杰.md",
+    "人际/刘璐.md",
+    "人际/罗鹏飞.md",
+    "人际/孟圣奥.md",
+    "人际/钱波.md",
+    "人际/施子健.md",
+    "人际/汪异凡.md",
+    "人际/王玉龙.md",
+    "人际/徐丹丹.md",
+    "人际/俞凤丹.md",
+    "人际/袁野.md",
+    "人际/张钊.md",
+    "影视/🎞︎影视.md",
+    "影视/寒战.md",
+    "影视/唐人街探案2（电视剧）.md",
+    "影视/新生.md",
+    "影视/Running Man.md",
+    "游戏/🎮︎游戏.md",
+    "游戏/Chained Together.md",
+    "阅读/📖阅读.md",
+    "阅读/01 时间管理之难.md",
+    "阅读/12.1 概述.md",
+    "阅读/12.2 吸收塔设计.md",
+    "阅读/爱的五种语言.md",
+    "阅读/爱的五种语言.canvas",
+    "阅读/把人生活成旷野，我的「焦虑盒子」笔记系统.md",
+    "阅读/带壳的牡蛎是大人的心脏.md",
+    "阅读/第12篇 气体吸收.md",
+    "阅读/第二章：制定个人投资计划.md",
+    "阅读/第三章：手把手教你构建投资组合.md",
+    "阅读/第四章：几个简单方法，让收益更上一层楼.md",
+    "阅读/第一章：投资前的准备工作.md",
+    "阅读/动手学深度学习2.0.0.md",
+    "阅读/动手学深度学习2.0.0-内容.md",
+    "阅读/非暴力沟通（修订版）.md",
+    "阅读/沟通的艺术（插图修订第15版）.md",
+    "阅读/化学工程手册-第三版.md",
+    "阅读/化学工艺设计手册.md",
+    "阅读/理财投资新手的操作指南.md",
+    "阅读/亲密关系.md",
+    "阅读/认知觉醒：开启自我改变的原动力.md",
+    "阅读/挑选适合自己的夏日被子，享受凉爽舒适睡眠.md",
+    "阅读/新年新开始：从为什么到写什么，带你重新认识日记.md",
+    "阅读/也谈钱的推荐书单.md",
+    "阅读/也许学校根本没有教你如何学习：论什么是真正的自学.md",
+    "阅读/以「工作」为分类标准，探讨「知识管理」的新思路.md",
+    "阅读/作者序：投资非难事，开始要趁早.md",
+    "阅读/Obsidian进阶插件Obsidian Leaflet用法之管理自己的旅行照片.md",
+    "阅读/pH测量.md",
+    "阅读/pH测量-内容.md",
+    "阅读/pH测量-人物.md",
+    "阅读/pH测量-专业名词.md",
+    "GPT/Assistants API.md",
+    "GPT/ChatGPT.md",
+    "GPT/Dify.md",
+    "GPT/GPT Crawler.md",
+    "GPT/LLM.md",
+    "HTE/报告/附件/20231213-主管培训-芬顿处理化学镍废水的探究及应用-孟圣奥.pptx",
+    "HTE/报告/氨氮吹脱工艺设计.md",
+    "HTE/报告/芬顿处理化学镍废水的探究及应用.md",
+    "HTE/报告/芬顿处理化学镍水技术分享.md",
+    "HTE/报告/探究铬双氧水工艺中双氧水浓度对六价铬去除率的影响.md",
+    "HTE/报告/探究搅拌速度对铬双氧水工艺处理效率的影响.md",
+    "HTE/报告/探究生化污泥对铬一出水结垢的影响.md",
+    "HTE/报告/未命名.md",
+    "HTE/报告/验证自制COD快速消解分光光度法在北仑项目的适用性.md",
+    "HTE/报告/鄞州C区铬双氧水工艺调试日志.md",
+    "HTE/部门/后京.md",
+    "HTE/部门/技术部.md",
+    "HTE/部门/C区.md",
+    "HTE/其他/出差.md",
+    "HTE/其他/MEET ENVDAMA.md",
+    "Weread/个人成长/爱的五种语言-【美】盖瑞·查普曼.md",
+    "Weread/个人成长/非暴力沟通·两性篇-马歇尔·卢森堡.md",
+    "Weread/教育学习/如何阅读一本书-莫提默·艾德勒 查尔斯·范多伦.md",
+    "Weread/经济理财/富爸爸穷爸爸-罗伯特·清崎.md",
+    "Weread/心理/非暴力沟通（修订版）-马歇尔·卢森堡.md",
+    "Weread/心理/认知觉醒：开启自我改变的原动力-周岭.md",
+    "Weread/心理/社会心理学（第11版）-【美】戴维·迈尔斯.md",
+    "Weread/心理/也许你该找个人聊聊-洛莉·戈特利布.md",
+    "Weread/政治军事/毛泽东选集（全四卷）-.md",
+    "WuCai/2023/09/wucai-构建自己的高效笔记系统 - 少数派-H8KA3HE.md",
+    "WuCai/2024/01/wucai-第二章  制定个人投资计划 - 少数派-H87E2EB.md",
+    "WuCai/2024/01/wucai-第三章  手把手教你构建投资组合 - 少数派-H87EMM9.md",
+    "WuCai/2024/01/wucai-第四章  几个简单方法让收益更上一层楼 - 少数派-H876FMA.md",
+    "WuCai/2024/01/wucai-第一章  投资前的准备工作 - 少数派-H88BEBD.md",
+    "WuCai/2024/01/wucai-作者序  投资非难事开始要趁早 - 少数派-H88BEHE.md",
+    "WuCai/2024/02/wucai-新年新开始：从为什么到写什么带你重新认识日记 - 少数派-H87KH86.md",
+    "WuCai/2024/03/wucai-01 时间管理之难 - 少数派-H8DBKAD.md",
+    "WuCai/2024/03/wucai-告别十年印象笔记用 Obsidian 一年最喜欢的 7 个功能 - 少数派-H8DA5DK.md",
+    "WuCai/2024/03/wucai-绝知此事要躬行：谈谈笔记与自我管理的元方法论 - 少数派-H8D93AH.md",
+    "WuCai/2024/03/wucai-年度征文 「狐狸」的成长：兴趣杂难坚持如何找到精进之路-H8D3H35.md",
+    "WuCai/2024/03/wucai-如何高效「知识管理」谈谈我的理解与做法 - 少数派-H8D9M68.md",
+    "WuCai/2024/03/wucai-碎嘴拉基欧FamilyTalk  小宇宙 - 听播客上小宇宙-H8D3B28.md",
+    "WuCai/2024/03/wucai-现代打工人如何获得幸福 - 少数派-H8962F8.md",
+    "WuCai/2024/03/wucai-Daily Note 2024-03-13-H8DAED3.md",
+    "WuCai/2024/04/wucai-从零开始认识 API把网页信息化为己用 - 少数派-H8F9K5C.md",
+    "WuCai/2024/04/wucai-通义-H85FDH3.md",
+    "WuCai/2024/04/wucai-学校根本没有教你如何学习：论什么是真正的自学 - 少数派-H8F9KE8.md",
+    "WuCai/2024/04/wucai-Daily Note 2024-04-25-H85EAA5.md",
+    "WuCai/2024/04/wucai-Daily Note 2024-04-27-H85C8F3.md",
+    "WuCai/2024/05/wucai-把人生活成旷野我的「焦虑盒子」笔记系统 - 少数派-H8CCKKE.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-06-H857F6D.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-14-H85BE7K.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-16-H8C629F.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-17-H8CCK5F.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-20-H8CF5KA.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-22-H8CD2D3.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-24-H8C8B62.md",
+    "WuCai/2024/05/wucai-Daily Note 2024-05-27-H8CHHF9.md",
+    "WuCai/2024/06/wucai-答案就是身体上的伤害身体上的伤害是一种所有人都懂的痛苦和表达-H8EF9C6.md",
+    "WuCai/2024/06/wucai-沪漂七年搬家七次我的选房思路与租房好物分享 - 少数派-H86KAAF.md",
+    "WuCai/2024/06/wucai-跨专业转行裸辞自媒体……活了 34 年我才看清「迷茫」的真相 - 少数派-H86H836.md",
+    "WuCai/2024/06/wucai-挑选适合自己的夏日被子享受凉爽舒适睡眠 - 少数派-H86H6MH.md",
+    "WuCai/2024/06/wucai-Daily Note 2024-06-04-H86E625.md",
+    "WuCai/2024/06/wucai-M2U8L-EUAC6-BK46A-PWLVL-93BDA-H863K59.md",
+    "WuCai/2024/07/wucai-善用白板和卡片聊聊 Heptabase 如何助我「知识管理」 - 少数派-H8E2H77.md",
+    "WuCai/2024/07/wucai-Daily Note 2024-07-07-H8E2FM3.md",
+    "🏠主页.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "播客/040｜我也曾以为我可以讨好所有人.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1388,
+      "exportedPath": "播客/040｜我也曾以为我可以讨好所有人.html",
+      "dependencies": []
+    },
+    "播客/46.勇气杂谈：我们有，但不多.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1312,
+      "exportedPath": "播客/46.勇气杂谈：我们有，但不多.html",
+      "dependencies": []
+    },
+    "播客/99号跑道 - 转机票便宜？选机型选座位？关于飞机购票背后的故事.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1455,
+      "exportedPath": "播客/99号跑道-转机票便宜？选机型选座位？关于飞机购票背后的故事.html",
+      "dependencies": []
+    },
+    "播客/414 - 谈钱伤感情？可不谈钱，它就是我心里的一根刺！.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1404,
+      "exportedPath": "播客/414-谈钱伤感情？可不谈钱，它就是我心里的一根刺！.html",
+      "dependencies": []
+    },
+    "播客/开启自我改变的原动力，2月书影音合集.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5747,
+      "exportedPath": "播客/开启自我改变的原动力，2月书影音合集.html",
+      "dependencies": []
+    },
+    "播客/人生开挂，需搞懂：一命二运三风水，四积阴德五读书，六名七相八敬神，九交贵人十养生.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1254,
+      "exportedPath": "播客/人生开挂，需搞懂：一命二运三风水，四积阴德五读书，六名七相八敬神，九交贵人十养生.html",
+      "dependencies": []
+    },
+    "播客/无效沟通！垂死病中惊坐起，中文不是你母语？.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1569,
+      "exportedPath": "播客/无效沟通！垂死病中惊坐起，中文不是你母语？.html",
+      "dependencies": []
+    },
+    "播客/有些瞬间，我好像可以听到泡泡诞生的声音.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1533,
+      "exportedPath": "播客/有些瞬间，我好像可以听到泡泡诞生的声音.html",
+      "dependencies": []
+    },
+    "播客/EP12：讨好型人格生存指南：关我P事和关你P事.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1419,
+      "exportedPath": "播客/ep12：讨好型人格生存指南：关我p事和关你p事.html",
+      "dependencies": []
+    },
+    "播客/EP14说说年轻人听不到的健康劝告.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1141,
+      "exportedPath": "播客/ep14说说年轻人听不到的健康劝告.html",
+      "dependencies": []
+    },
+    "播客/ep18. 工作10年总结，这6种职场能力者简直制霸打工界。.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1217,
+      "exportedPath": "播客/ep18.-工作10年总结，这6种职场能力者简直制霸打工界。.html",
+      "dependencies": []
+    },
+    "播客/MBTI守则：F人说好难过要碎了！T人说碎了不能解决问题.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1526,
+      "exportedPath": "播客/mbti守则：f人说好难过要碎了！t人说碎了不能解决问题.html",
+      "dependencies": []
+    },
+    "播客/MBTI守则：P人下次一定，J人全当放屁.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1526,
+      "exportedPath": "播客/mbti守则：p人下次一定，j人全当放屁.html",
+      "dependencies": []
+    },
+    "播客/MBTI守则：S人说这是苹果，N人说这明明就是农民的劳动成果！.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1592,
+      "exportedPath": "播客/mbti守则：s人说这是苹果，n人说这明明就是农民的劳动成果！.html",
+      "dependencies": []
+    },
+    "播客/Vol.051 示弱是个高情商，该“装”时候就得装｜刚如鲁迅也适时示弱.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1478,
+      "exportedPath": "播客/vol.051-示弱是个高情商，该“装”时候就得装｜刚如鲁迅也适时示弱.html",
+      "dependencies": []
+    },
+    "播客/VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1104,
+      "exportedPath": "播客/vol.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日.html",
+      "dependencies": []
+    },
+    "播客/vol.150 六一特辑：小孩姐小孩哥，整顿大人没话说.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1192,
+      "exportedPath": "播客/vol.150-六一特辑：小孩姐小孩哥，整顿大人没话说.html",
+      "dependencies": []
+    },
+    "财务/📒财务.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2228,
+      "exportedPath": "财务/📒财务.html",
+      "dependencies": []
+    },
+    "财务/订阅.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 92300,
+      "exportedPath": "财务/订阅.html",
+      "dependencies": []
+    },
+    "代码/化学镍水计算-Envdama-函数.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5410,
+      "exportedPath": "代码/化学镍水计算-envdama-函数.html",
+      "dependencies": []
+    },
+    "代码/日记合并（废）.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1222,
+      "exportedPath": "代码/日记合并（废）.html",
+      "dependencies": []
+    },
+    "代码/日记合并（Diary Merger）.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3005,
+      "exportedPath": "代码/日记合并（diary-merger）.html",
+      "dependencies": []
+    },
+    "代码/照片生成标记点（高德地图）.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 6096,
+      "exportedPath": "代码/照片生成标记点（高德地图）.html",
+      "dependencies": []
+    },
+    "代码/Assistants API交互.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1290,
+      "exportedPath": "代码/assistants-api交互.html",
+      "dependencies": []
+    },
+    "代码/Cal_packed_tower.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2294,
+      "exportedPath": "代码/cal_packed_tower.html",
+      "dependencies": []
+    },
+    "代码/CalcCr6Process.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 12443,
+      "exportedPath": "代码/calccr6process.html",
+      "dependencies": []
+    },
+    "工具/📁工具.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 6245,
+      "exportedPath": "工具/📁工具.html",
+      "dependencies": []
+    },
+    "工具/memos.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 165,
+      "exportedPath": "工具/memos.html",
+      "dependencies": []
+    },
+    "工具/PicGo.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 70,
+      "exportedPath": "工具/picgo.html",
+      "dependencies": []
+    },
+    "工具/TranslucentTB.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 168,
+      "exportedPath": "工具/translucenttb.html",
+      "dependencies": []
+    },
+    "健康/🥬健康.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "健康/🥬健康.html",
+      "dependencies": []
+    },
+    "居家/🛏️居家.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "居家/🛏️居家.html",
+      "dependencies": []
+    },
+    "旅行/2024-02-成都/2024年2月成都行游记.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 549,
+      "exportedPath": "旅行/2024-02-成都/2024年2月成都行游记.html",
+      "dependencies": []
+    },
+    "美食/🥟美食.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 120,
+      "exportedPath": "美食/🥟美食.html",
+      "dependencies": []
+    },
+    "美食/有家面（河东路店）.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 109,
+      "exportedPath": "美食/有家面（河东路店）.html",
+      "dependencies": []
+    },
+    "模板/报告.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 386,
+      "exportedPath": "模板/报告.html",
+      "dependencies": []
+    },
+    "模板/播客.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1073,
+      "exportedPath": "模板/播客.html",
+      "dependencies": []
+    },
+    "模板/代码.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 317,
+      "exportedPath": "模板/代码.html",
+      "dependencies": []
+    },
+    "模板/美食.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1080,
+      "exportedPath": "模板/美食.html",
+      "dependencies": []
+    },
+    "模板/模板.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "模板/模板.html",
+      "dependencies": []
+    },
+    "模板/年记.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2906,
+      "exportedPath": "模板/年记.html",
+      "dependencies": []
+    },
+    "模板/人际.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1484,
+      "exportedPath": "模板/人际.html",
+      "dependencies": []
+    },
+    "模板/日记.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1555,
+      "exportedPath": "模板/日记.html",
+      "dependencies": []
+    },
+    "模板/软件.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 116,
+      "exportedPath": "模板/软件.html",
+      "dependencies": []
+    },
+    "模板/书籍.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1315,
+      "exportedPath": "模板/书籍.html",
+      "dependencies": []
+    },
+    "模板/影视.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1485,
+      "exportedPath": "模板/影视.html",
+      "dependencies": []
+    },
+    "模板/月记.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1014,
+      "exportedPath": "模板/月记.html",
+      "dependencies": []
+    },
+    "模板/周记.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2207,
+      "exportedPath": "模板/周记.html",
+      "dependencies": []
+    },
+    "模板/GPT.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 158,
+      "exportedPath": "模板/gpt.html",
+      "dependencies": []
+    },
+    "年记/2023.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 10112,
+      "exportedPath": "年记/2023.html",
+      "dependencies": []
+    },
+    "年记/2024.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2040,
+      "exportedPath": "年记/2024.html",
+      "dependencies": []
+    },
+    "其他/┊┊.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 66,
+      "exportedPath": "其他/┊┊.html",
+      "dependencies": []
+    },
+    "其他/4+1 system.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1412,
+      "exportedPath": "其他/4+1-system.html",
+      "dependencies": []
+    },
+    "其他/8+1 system.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 629,
+      "exportedPath": "其他/8+1-system.html",
+      "dependencies": []
+    },
+    "其他/埃森曼.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 99,
+      "exportedPath": "其他/埃森曼.html",
+      "dependencies": []
+    },
+    "其他/标准氢电极.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 449,
+      "exportedPath": "其他/标准氢电极.html",
+      "dependencies": []
+    },
+    "其他/布孝有三.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3591,
+      "exportedPath": "其他/布孝有三.html",
+      "dependencies": []
+    },
+    "其他/财商.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "其他/财商.html",
+      "dependencies": []
+    },
+    "其他/测试.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 261,
+      "exportedPath": "其他/测试.html",
+      "dependencies": []
+    },
+    "其他/除氰工艺实验汇总.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3291,
+      "exportedPath": "其他/除氰工艺实验汇总.html",
+      "dependencies": []
+    },
+    "其他/电极电势.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 542,
+      "exportedPath": "其他/电极电势.html",
+      "dependencies": []
+    },
+    "其他/电极反应.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 455,
+      "exportedPath": "其他/电极反应.html",
+      "dependencies": []
+    },
+    "其他/电解池.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 203,
+      "exportedPath": "其他/电解池.html",
+      "dependencies": []
+    },
+    "其他/电解质.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 584,
+      "exportedPath": "其他/电解质.html",
+      "dependencies": []
+    },
+    "其他/广播机制.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 853,
+      "exportedPath": "其他/广播机制.html",
+      "dependencies": []
+    },
+    "其他/哈伯.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 789,
+      "exportedPath": "其他/哈伯.html",
+      "dependencies": []
+    },
+    "其他/盒子.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 264,
+      "exportedPath": "其他/盒子.html",
+      "dependencies": []
+    },
+    "其他/亨利定律.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1830,
+      "exportedPath": "其他/亨利定律.html",
+      "dependencies": []
+    },
+    "其他/活度.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 167,
+      "exportedPath": "其他/活度.html",
+      "dependencies": []
+    },
+    "其他/活度系数.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 607,
+      "exportedPath": "其他/活度系数.html",
+      "dependencies": []
+    },
+    "其他/焦虑笔记.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 651,
+      "exportedPath": "其他/焦虑笔记.html",
+      "dependencies": []
+    },
+    "其他/焦虑盒子.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 518,
+      "exportedPath": "其他/焦虑盒子.html",
+      "dependencies": []
+    },
+    "其他/进化时滞.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 366,
+      "exportedPath": "其他/进化时滞.html",
+      "dependencies": []
+    },
+    "其他/看板测试.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 153,
+      "exportedPath": "其他/看板测试.html",
+      "dependencies": []
+    },
+    "其他/可逆电池.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 298,
+      "exportedPath": "其他/可逆电池.html",
+      "dependencies": []
+    },
+    "其他/克莱默.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 206,
+      "exportedPath": "其他/克莱默.html",
+      "dependencies": []
+    },
+    "其他/马斯洛需求理论.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 907,
+      "exportedPath": "其他/马斯洛需求理论.html",
+      "dependencies": []
+    },
+    "其他/能量转化可逆.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 171,
+      "exportedPath": "其他/能量转化可逆.html",
+      "dependencies": []
+    },
+    "其他/能斯特.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 551,
+      "exportedPath": "其他/能斯特.html",
+      "dependencies": []
+    },
+    "其他/能斯特方程.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 209,
+      "exportedPath": "其他/能斯特方程.html",
+      "dependencies": []
+    },
+    "其他/尼可里斯基.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 111,
+      "exportedPath": "其他/尼可里斯基.html",
+      "dependencies": []
+    },
+    "其他/氢电极.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 209,
+      "exportedPath": "其他/氢电极.html",
+      "dependencies": []
+    },
+    "其他/氰化物污染及其治理技术——要点.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 4686,
+      "exportedPath": "其他/氰化物污染及其治理技术——要点.html",
+      "dependencies": []
+    },
+    "其他/少量多次.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 272,
+      "exportedPath": "其他/少量多次.html",
+      "dependencies": []
+    },
+    "其他/手把手教之Freefilesync.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 11992,
+      "exportedPath": "其他/手把手教之freefilesync.html",
+      "dependencies": []
+    },
+    "其他/四象限法.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1145,
+      "exportedPath": "其他/四象限法.html",
+      "dependencies": []
+    },
+    "其他/索伦森.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 247,
+      "exportedPath": "其他/索伦森.html",
+      "dependencies": []
+    },
+    "其他/问题清单.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 225,
+      "exportedPath": "其他/问题清单.html",
+      "dependencies": []
+    },
+    "其他/物质可逆.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 221,
+      "exportedPath": "其他/物质可逆.html",
+      "dependencies": []
+    },
+    "其他/线性回归.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 346,
+      "exportedPath": "其他/线性回归.html",
+      "dependencies": []
+    },
+    "其他/盐桥.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 281,
+      "exportedPath": "其他/盐桥.html",
+      "dependencies": []
+    },
+    "其他/意群.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 935,
+      "exportedPath": "其他/意群.html",
+      "dependencies": []
+    },
+    "其他/预期焦虑.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2739,
+      "exportedPath": "其他/预期焦虑.html",
+      "dependencies": []
+    },
+    "其他/原电池.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 218,
+      "exportedPath": "其他/原电池.html",
+      "dependencies": []
+    },
+    "其他/阅读速度.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 108,
+      "exportedPath": "其他/阅读速度.html",
+      "dependencies": []
+    },
+    "其他/正态分布.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 282,
+      "exportedPath": "其他/正态分布.html",
+      "dependencies": []
+    },
+    "其他/指示电极.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 411,
+      "exportedPath": "其他/指示电极.html",
+      "dependencies": []
+    },
+    "其他/自发电池.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 215,
+      "exportedPath": "其他/自发电池.html",
+      "dependencies": []
+    },
+    "人际/菠萝赛东°.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1775,
+      "exportedPath": "人际/菠萝赛东°.html",
+      "dependencies": []
+    },
+    "人际/付仁杰.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1604,
+      "exportedPath": "人际/付仁杰.html",
+      "dependencies": []
+    },
+    "人际/刘璐.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1457,
+      "exportedPath": "人际/刘璐.html",
+      "dependencies": []
+    },
+    "人际/罗鹏飞.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1370,
+      "exportedPath": "人际/罗鹏飞.html",
+      "dependencies": []
+    },
+    "人际/孟圣奥.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1322,
+      "exportedPath": "人际/孟圣奥.html",
+      "dependencies": []
+    },
+    "人际/钱波.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1760,
+      "exportedPath": "人际/钱波.html",
+      "dependencies": []
+    },
+    "人际/施子健.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1450,
+      "exportedPath": "人际/施子健.html",
+      "dependencies": []
+    },
+    "人际/汪异凡.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1453,
+      "exportedPath": "人际/汪异凡.html",
+      "dependencies": []
+    },
+    "人际/王玉龙.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1453,
+      "exportedPath": "人际/王玉龙.html",
+      "dependencies": []
+    },
+    "人际/徐丹丹.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1457,
+      "exportedPath": "人际/徐丹丹.html",
+      "dependencies": []
+    },
+    "人际/俞凤丹.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1453,
+      "exportedPath": "人际/俞凤丹.html",
+      "dependencies": []
+    },
+    "人际/袁野.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1773,
+      "exportedPath": "人际/袁野.html",
+      "dependencies": []
+    },
+    "人际/张钊.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1453,
+      "exportedPath": "人际/张钊.html",
+      "dependencies": []
+    },
+    "影视/🎞︎影视.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "影视/🎞︎影视.html",
+      "dependencies": []
+    },
+    "影视/寒战.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 793,
+      "exportedPath": "影视/寒战.html",
+      "dependencies": []
+    },
+    "影视/唐人街探案2（电视剧）.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 364,
+      "exportedPath": "影视/唐人街探案2（电视剧）.html",
+      "dependencies": []
+    },
+    "影视/新生.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5176,
+      "exportedPath": "影视/新生.html",
+      "dependencies": []
+    },
+    "影视/Running Man.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 4548,
+      "exportedPath": "影视/running-man.html",
+      "dependencies": []
+    },
+    "游戏/🎮︎游戏.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "游戏/🎮︎游戏.html",
+      "dependencies": []
+    },
+    "游戏/Chained Together.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "游戏/chained-together.html",
+      "dependencies": []
+    },
+    "阅读/📖阅读.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "阅读/📖阅读.html",
+      "dependencies": []
+    },
+    "阅读/01 时间管理之难.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3084,
+      "exportedPath": "阅读/01-时间管理之难.html",
+      "dependencies": []
+    },
+    "阅读/12.1 概述.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 8839,
+      "exportedPath": "阅读/12.1-概述.html",
+      "dependencies": []
+    },
+    "阅读/12.2 吸收塔设计.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5029,
+      "exportedPath": "阅读/12.2-吸收塔设计.html",
+      "dependencies": []
+    },
+    "阅读/爱的五种语言.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1359,
+      "exportedPath": "阅读/爱的五种语言.html",
+      "dependencies": []
+    },
+    "阅读/爱的五种语言.canvas": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2,
+      "exportedPath": "阅读/爱的五种语言.html",
+      "dependencies": []
+    },
+    "阅读/把人生活成旷野，我的「焦虑盒子」笔记系统.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 4243,
+      "exportedPath": "阅读/把人生活成旷野，我的「焦虑盒子」笔记系统.html",
+      "dependencies": []
+    },
+    "阅读/带壳的牡蛎是大人的心脏.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2619,
+      "exportedPath": "阅读/带壳的牡蛎是大人的心脏.html",
+      "dependencies": []
+    },
+    "阅读/第12篇 气体吸收.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 921,
+      "exportedPath": "阅读/第12篇-气体吸收.html",
+      "dependencies": []
+    },
+    "阅读/第二章：制定个人投资计划.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3797,
+      "exportedPath": "阅读/第二章：制定个人投资计划.html",
+      "dependencies": []
+    },
+    "阅读/第三章：手把手教你构建投资组合.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3638,
+      "exportedPath": "阅读/第三章：手把手教你构建投资组合.html",
+      "dependencies": []
+    },
+    "阅读/第四章：几个简单方法，让收益更上一层楼.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2116,
+      "exportedPath": "阅读/第四章：几个简单方法，让收益更上一层楼.html",
+      "dependencies": []
+    },
+    "阅读/第一章：投资前的准备工作.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2756,
+      "exportedPath": "阅读/第一章：投资前的准备工作.html",
+      "dependencies": []
+    },
+    "阅读/动手学深度学习2.0.0.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 132,
+      "exportedPath": "阅读/动手学深度学习2.0.0.html",
+      "dependencies": []
+    },
+    "阅读/动手学深度学习2.0.0-内容.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 173851,
+      "exportedPath": "阅读/动手学深度学习2.0.0-内容.html",
+      "dependencies": []
+    },
+    "阅读/非暴力沟通（修订版）.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1013,
+      "exportedPath": "阅读/非暴力沟通（修订版）.html",
+      "dependencies": []
+    },
+    "阅读/沟通的艺术（插图修订第15版）.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1130,
+      "exportedPath": "阅读/沟通的艺术（插图修订第15版）.html",
+      "dependencies": []
+    },
+    "阅读/化学工程手册-第三版.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1264,
+      "exportedPath": "阅读/化学工程手册-第三版.html",
+      "dependencies": []
+    },
+    "阅读/化学工艺设计手册.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 938,
+      "exportedPath": "阅读/化学工艺设计手册.html",
+      "dependencies": []
+    },
+    "阅读/理财投资新手的操作指南.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 862,
+      "exportedPath": "阅读/理财投资新手的操作指南.html",
+      "dependencies": []
+    },
+    "阅读/亲密关系.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 950,
+      "exportedPath": "阅读/亲密关系.html",
+      "dependencies": []
+    },
+    "阅读/认知觉醒：开启自我改变的原动力.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1090,
+      "exportedPath": "阅读/认知觉醒：开启自我改变的原动力.html",
+      "dependencies": []
+    },
+    "阅读/挑选适合自己的夏日被子，享受凉爽舒适睡眠.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5113,
+      "exportedPath": "阅读/挑选适合自己的夏日被子，享受凉爽舒适睡眠.html",
+      "dependencies": []
+    },
+    "阅读/新年新开始：从为什么到写什么，带你重新认识日记.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 4795,
+      "exportedPath": "阅读/新年新开始：从为什么到写什么，带你重新认识日记.html",
+      "dependencies": []
+    },
+    "阅读/也谈钱的推荐书单.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 10527,
+      "exportedPath": "阅读/也谈钱的推荐书单.html",
+      "dependencies": []
+    },
+    "阅读/也许学校根本没有教你如何学习：论什么是真正的自学.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1359,
+      "exportedPath": "阅读/也许学校根本没有教你如何学习：论什么是真正的自学.html",
+      "dependencies": []
+    },
+    "阅读/以「工作」为分类标准，探讨「知识管理」的新思路.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 4831,
+      "exportedPath": "阅读/以「工作」为分类标准，探讨「知识管理」的新思路.html",
+      "dependencies": []
+    },
+    "阅读/作者序：投资非难事，开始要趁早.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1567,
+      "exportedPath": "阅读/作者序：投资非难事，开始要趁早.html",
+      "dependencies": []
+    },
+    "阅读/Obsidian进阶插件Obsidian Leaflet用法之管理自己的旅行照片.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2433,
+      "exportedPath": "阅读/obsidian进阶插件obsidian-leaflet用法之管理自己的旅行照片.html",
+      "dependencies": []
+    },
+    "阅读/pH测量.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 80,
+      "exportedPath": "阅读/ph测量.html",
+      "dependencies": []
+    },
+    "阅读/pH测量-内容.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 12258,
+      "exportedPath": "阅读/ph测量-内容.html",
+      "dependencies": []
+    },
+    "阅读/pH测量-人物.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 135,
+      "exportedPath": "阅读/ph测量-人物.html",
+      "dependencies": []
+    },
+    "阅读/pH测量-专业名词.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 616,
+      "exportedPath": "阅读/ph测量-专业名词.html",
+      "dependencies": []
+    },
+    "GPT/Assistants API.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 17512,
+      "exportedPath": "gpt/assistants-api.html",
+      "dependencies": []
+    },
+    "GPT/ChatGPT.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "gpt/chatgpt.html",
+      "dependencies": []
+    },
+    "GPT/Dify.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 11475,
+      "exportedPath": "gpt/dify.html",
+      "dependencies": []
+    },
+    "GPT/GPT Crawler.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 215,
+      "exportedPath": "gpt/gpt-crawler.html",
+      "dependencies": []
+    },
+    "GPT/LLM.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 0,
+      "exportedPath": "gpt/llm.html",
+      "dependencies": []
+    },
+    "HTE/报告/附件/20231213-主管培训-芬顿处理化学镍废水的探究及应用-孟圣奥.pptx": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 17996048,
+      "exportedPath": "hte/报告/附件/20231213-主管培训-芬顿处理化学镍废水的探究及应用-孟圣奥.pptx",
+      "dependencies": []
+    },
+    "HTE/报告/氨氮吹脱工艺设计.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 11309,
+      "exportedPath": "hte/报告/氨氮吹脱工艺设计.html",
+      "dependencies": []
+    },
+    "HTE/报告/芬顿处理化学镍废水的探究及应用.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 193,
+      "exportedPath": "hte/报告/芬顿处理化学镍废水的探究及应用.html",
+      "dependencies": []
+    },
+    "HTE/报告/芬顿处理化学镍水技术分享.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 6137,
+      "exportedPath": "hte/报告/芬顿处理化学镍水技术分享.html",
+      "dependencies": []
+    },
+    "HTE/报告/探究铬双氧水工艺中双氧水浓度对六价铬去除率的影响.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 130,
+      "exportedPath": "hte/报告/探究铬双氧水工艺中双氧水浓度对六价铬去除率的影响.html",
+      "dependencies": []
+    },
+    "HTE/报告/探究搅拌速度对铬双氧水工艺处理效率的影响.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 254,
+      "exportedPath": "hte/报告/探究搅拌速度对铬双氧水工艺处理效率的影响.html",
+      "dependencies": []
+    },
+    "HTE/报告/探究生化污泥对铬一出水结垢的影响.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 6259,
+      "exportedPath": "hte/报告/探究生化污泥对铬一出水结垢的影响.html",
+      "dependencies": []
+    },
+    "HTE/报告/未命名.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 355,
+      "exportedPath": "hte/报告/未命名.html",
+      "dependencies": []
+    },
+    "HTE/报告/验证自制COD快速消解分光光度法在北仑项目的适用性.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 4818,
+      "exportedPath": "hte/报告/验证自制cod快速消解分光光度法在北仑项目的适用性.html",
+      "dependencies": []
+    },
+    "HTE/报告/鄞州C区铬双氧水工艺调试日志.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 28408,
+      "exportedPath": "hte/报告/鄞州c区铬双氧水工艺调试日志.html",
+      "dependencies": []
+    },
+    "HTE/部门/后京.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 367,
+      "exportedPath": "hte/部门/后京.html",
+      "dependencies": []
+    },
+    "HTE/部门/技术部.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 282,
+      "exportedPath": "hte/部门/技术部.html",
+      "dependencies": []
+    },
+    "HTE/部门/C区.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 222,
+      "exportedPath": "hte/部门/c区.html",
+      "dependencies": []
+    },
+    "HTE/其他/出差.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 626,
+      "exportedPath": "hte/其他/出差.html",
+      "dependencies": []
+    },
+    "HTE/其他/MEET ENVDAMA.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 268,
+      "exportedPath": "hte/其他/meet-envdama.html",
+      "dependencies": []
+    },
+    "Weread/个人成长/爱的五种语言-【美】盖瑞·查普曼.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 60441,
+      "exportedPath": "weread/个人成长/爱的五种语言-【美】盖瑞·查普曼.html",
+      "dependencies": []
+    },
+    "Weread/个人成长/非暴力沟通·两性篇-马歇尔·卢森堡.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 19092,
+      "exportedPath": "weread/个人成长/非暴力沟通·两性篇-马歇尔·卢森堡.html",
+      "dependencies": []
+    },
+    "Weread/教育学习/如何阅读一本书-莫提默·艾德勒 查尔斯·范多伦.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 6627,
+      "exportedPath": "weread/教育学习/如何阅读一本书-莫提默·艾德勒-查尔斯·范多伦.html",
+      "dependencies": []
+    },
+    "Weread/经济理财/富爸爸穷爸爸-罗伯特·清崎.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 21926,
+      "exportedPath": "weread/经济理财/富爸爸穷爸爸-罗伯特·清崎.html",
+      "dependencies": []
+    },
+    "Weread/心理/非暴力沟通（修订版）-马歇尔·卢森堡.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 50186,
+      "exportedPath": "weread/心理/非暴力沟通（修订版）-马歇尔·卢森堡.html",
+      "dependencies": []
+    },
+    "Weread/心理/认知觉醒：开启自我改变的原动力-周岭.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 120310,
+      "exportedPath": "weread/心理/认知觉醒：开启自我改变的原动力-周岭.html",
+      "dependencies": []
+    },
+    "Weread/心理/社会心理学（第11版）-【美】戴维·迈尔斯.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 7445,
+      "exportedPath": "weread/心理/社会心理学（第11版）-【美】戴维·迈尔斯.html",
+      "dependencies": []
+    },
+    "Weread/心理/也许你该找个人聊聊-洛莉·戈特利布.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5158,
+      "exportedPath": "weread/心理/也许你该找个人聊聊-洛莉·戈特利布.html",
+      "dependencies": []
+    },
+    "Weread/政治军事/毛泽东选集（全四卷）-.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 2634,
+      "exportedPath": "weread/政治军事/毛泽东选集（全四卷）-.html",
+      "dependencies": []
+    },
+    "WuCai/2023/09/wucai-构建自己的高效笔记系统 - 少数派-H8KA3HE.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1588,
+      "exportedPath": "wucai/2023/09/wucai-构建自己的高效笔记系统-少数派-h8ka3he.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/wucai-第二章  制定个人投资计划 - 少数派-H87E2EB.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 4185,
+      "exportedPath": "wucai/2024/01/wucai-第二章-制定个人投资计划-少数派-h87e2eb.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/wucai-第三章  手把手教你构建投资组合 - 少数派-H87EMM9.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1504,
+      "exportedPath": "wucai/2024/01/wucai-第三章-手把手教你构建投资组合-少数派-h87emm9.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/wucai-第四章  几个简单方法让收益更上一层楼 - 少数派-H876FMA.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1432,
+      "exportedPath": "wucai/2024/01/wucai-第四章-几个简单方法让收益更上一层楼-少数派-h876fma.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/wucai-第一章  投资前的准备工作 - 少数派-H88BEBD.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3259,
+      "exportedPath": "wucai/2024/01/wucai-第一章-投资前的准备工作-少数派-h88bebd.html",
+      "dependencies": []
+    },
+    "WuCai/2024/01/wucai-作者序  投资非难事开始要趁早 - 少数派-H88BEHE.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1001,
+      "exportedPath": "wucai/2024/01/wucai-作者序-投资非难事开始要趁早-少数派-h88behe.html",
+      "dependencies": []
+    },
+    "WuCai/2024/02/wucai-新年新开始：从为什么到写什么带你重新认识日记 - 少数派-H87KH86.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3252,
+      "exportedPath": "wucai/2024/02/wucai-新年新开始：从为什么到写什么带你重新认识日记-少数派-h87kh86.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-01 时间管理之难 - 少数派-H8DBKAD.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 28988,
+      "exportedPath": "wucai/2024/03/wucai-01-时间管理之难-少数派-h8dbkad.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-告别十年印象笔记用 Obsidian 一年最喜欢的 7 个功能 - 少数派-H8DA5DK.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 23710,
+      "exportedPath": "wucai/2024/03/wucai-告别十年印象笔记用-obsidian-一年最喜欢的-7-个功能-少数派-h8da5dk.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-绝知此事要躬行：谈谈笔记与自我管理的元方法论 - 少数派-H8D93AH.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 24301,
+      "exportedPath": "wucai/2024/03/wucai-绝知此事要躬行：谈谈笔记与自我管理的元方法论-少数派-h8d93ah.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-年度征文 「狐狸」的成长：兴趣杂难坚持如何找到精进之路-H8D3H35.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 33507,
+      "exportedPath": "wucai/2024/03/wucai-年度征文-「狐狸」的成长：兴趣杂难坚持如何找到精进之路-h8d3h35.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-如何高效「知识管理」谈谈我的理解与做法 - 少数派-H8D9M68.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 16603,
+      "exportedPath": "wucai/2024/03/wucai-如何高效「知识管理」谈谈我的理解与做法-少数派-h8d9m68.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-碎嘴拉基欧FamilyTalk  小宇宙 - 听播客上小宇宙-H8D3B28.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 578,
+      "exportedPath": "wucai/2024/03/wucai-碎嘴拉基欧familytalk-小宇宙-听播客上小宇宙-h8d3b28.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-现代打工人如何获得幸福 - 少数派-H8962F8.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 202308,
+      "exportedPath": "wucai/2024/03/wucai-现代打工人如何获得幸福-少数派-h8962f8.html",
+      "dependencies": []
+    },
+    "WuCai/2024/03/wucai-Daily Note 2024-03-13-H8DAED3.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 686,
+      "exportedPath": "wucai/2024/03/wucai-daily-note-2024-03-13-h8daed3.html",
+      "dependencies": []
+    },
+    "WuCai/2024/04/wucai-从零开始认识 API把网页信息化为己用 - 少数派-H8F9K5C.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 449,
+      "exportedPath": "wucai/2024/04/wucai-从零开始认识-api把网页信息化为己用-少数派-h8f9k5c.html",
+      "dependencies": []
+    },
+    "WuCai/2024/04/wucai-通义-H85FDH3.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 462,
+      "exportedPath": "wucai/2024/04/wucai-通义-h85fdh3.html",
+      "dependencies": []
+    },
+    "WuCai/2024/04/wucai-学校根本没有教你如何学习：论什么是真正的自学 - 少数派-H8F9KE8.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 26995,
+      "exportedPath": "wucai/2024/04/wucai-学校根本没有教你如何学习：论什么是真正的自学-少数派-h8f9ke8.html",
+      "dependencies": []
+    },
+    "WuCai/2024/04/wucai-Daily Note 2024-04-25-H85EAA5.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1340,
+      "exportedPath": "wucai/2024/04/wucai-daily-note-2024-04-25-h85eaa5.html",
+      "dependencies": []
+    },
+    "WuCai/2024/04/wucai-Daily Note 2024-04-27-H85C8F3.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1450,
+      "exportedPath": "wucai/2024/04/wucai-daily-note-2024-04-27-h85c8f3.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-把人生活成旷野我的「焦虑盒子」笔记系统 - 少数派-H8CCKKE.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 20836,
+      "exportedPath": "wucai/2024/05/wucai-把人生活成旷野我的「焦虑盒子」笔记系统-少数派-h8cckke.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-06-H857F6D.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 493,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-06-h857f6d.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-14-H85BE7K.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 550,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-14-h85be7k.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-16-H8C629F.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1163,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-16-h8c629f.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-17-H8CCK5F.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 789,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-17-h8cck5f.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-20-H8CF5KA.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 730,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-20-h8cf5ka.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-22-H8CD2D3.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 531,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-22-h8cd2d3.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-24-H8C8B62.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 660,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-24-h8c8b62.html",
+      "dependencies": []
+    },
+    "WuCai/2024/05/wucai-Daily Note 2024-05-27-H8CHHF9.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 531,
+      "exportedPath": "wucai/2024/05/wucai-daily-note-2024-05-27-h8chhf9.html",
+      "dependencies": []
+    },
+    "WuCai/2024/06/wucai-答案就是身体上的伤害身体上的伤害是一种所有人都懂的痛苦和表达-H8EF9C6.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1271,
+      "exportedPath": "wucai/2024/06/wucai-答案就是身体上的伤害身体上的伤害是一种所有人都懂的痛苦和表达-h8ef9c6.html",
+      "dependencies": []
+    },
+    "WuCai/2024/06/wucai-沪漂七年搬家七次我的选房思路与租房好物分享 - 少数派-H86KAAF.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 26682,
+      "exportedPath": "wucai/2024/06/wucai-沪漂七年搬家七次我的选房思路与租房好物分享-少数派-h86kaaf.html",
+      "dependencies": []
+    },
+    "WuCai/2024/06/wucai-跨专业转行裸辞自媒体……活了 34 年我才看清「迷茫」的真相 - 少数派-H86H836.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 20766,
+      "exportedPath": "wucai/2024/06/wucai-跨专业转行裸辞自媒体……活了-34-年我才看清「迷茫」的真相-少数派-h86h836.html",
+      "dependencies": []
+    },
+    "WuCai/2024/06/wucai-挑选适合自己的夏日被子享受凉爽舒适睡眠 - 少数派-H86H6MH.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 20239,
+      "exportedPath": "wucai/2024/06/wucai-挑选适合自己的夏日被子享受凉爽舒适睡眠-少数派-h86h6mh.html",
+      "dependencies": []
+    },
+    "WuCai/2024/06/wucai-Daily Note 2024-06-04-H86E625.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 685,
+      "exportedPath": "wucai/2024/06/wucai-daily-note-2024-06-04-h86e625.html",
+      "dependencies": []
+    },
+    "WuCai/2024/06/wucai-M2U8L-EUAC6-BK46A-PWLVL-93BDA-H863K59.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 854,
+      "exportedPath": "wucai/2024/06/wucai-m2u8l-euac6-bk46a-pwlvl-93bda-h863k59.html",
+      "dependencies": []
+    },
+    "WuCai/2024/07/wucai-善用白板和卡片聊聊 Heptabase 如何助我「知识管理」 - 少数派-H8E2H77.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 721,
+      "exportedPath": "wucai/2024/07/wucai-善用白板和卡片聊聊-heptabase-如何助我「知识管理」-少数派-h8e2h77.html",
+      "dependencies": []
+    },
+    "WuCai/2024/07/wucai-Daily Note 2024-07-07-H8E2FM3.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 531,
+      "exportedPath": "wucai/2024/07/wucai-daily-note-2024-07-07-h8e2fm3.html",
+      "dependencies": []
+    },
+    "🏠主页.md": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1852,
+      "exportedPath": "🏠主页.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 96427,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 13642,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 130208,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 110850,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 206205,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 395,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 3882,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1721221003690,
+      "sourceSize": 98,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
